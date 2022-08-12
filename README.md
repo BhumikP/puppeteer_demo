@@ -15,6 +15,6 @@ Puppeteer is a Node library which provides a high-level API to control Chrome or
 
 - Clone the repo
 - do npm i
-- To run individual files you can do :- [node filename.js]
+- To run individual files you can do :- <node filename.js>
 - Done ! You are ready to go !!!!!
 - Each file has comments where you can see what it will do.
